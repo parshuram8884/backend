@@ -1,0 +1,16 @@
+{
+  "name": "client",
+  "version": "1.0.1",
+  "description": "data modeling",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2"
+  }
+}
