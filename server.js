@@ -14,7 +14,7 @@ app.listen(port, () => {
 connectDB()
 // ;(async () =>{
 //   try {
-//     const connection = await mongoose.connect("mongodb+srv://mohitparshuramthakur234:0SWOPfmcYl4BKGRj@cluster0.trij3.mongodb.net/?appName=Cluster0/DBName")
+//     const connection = await mongoose.connect("")
 //     console.log(`connect get successfully ${connection.connection.host}` )
 //   } catch (error) {
 //     console.log("database don't connect", error)
